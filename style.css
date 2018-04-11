@@ -1,0 +1,12 @@
+
+body {
+    background-image: url('bg.JPG');
+    background-size: cover; 
+}
+
+h1 {
+    font-family: 'Roboto';
+    font-size: 100px;
+    text-align: Center;
+    color: white;
+}
